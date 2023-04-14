@@ -9,4 +9,4 @@ Insert a new module and copy-paste the code into it.
 Press "F5" or click on the "Run" button to execute the code.
 The code will analyze the stock market data present in all the sheets of the workbook and output the results in a new sheet.
 
-The code was created with the help of "Visual Basic Essential Training" course available on LinkedIn Learning.
+The code was created with the help of "Visual Basic Essential Training" course available on LinkedIn Learning.  Parts of the code were also pulled from the slack channel.
